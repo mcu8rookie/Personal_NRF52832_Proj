@@ -1,0 +1,75 @@
+Dependencies for Project 'NRF52_GPIO', Target 'Usr_GPIO': (DO NOT MODIFY !)
+CompilerVersion: 5050169::V5.05 update 2 (build 169)::..\..\Keil_v5\ARM\ARMCC
+F (.\UsrCode\Usr_Main.c)(0x67B9565B)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\UsrCode -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\hal -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates\nRF52832 -I ..\nRF5_SDK_17.1.0_ddde560\components\libraries\delay-I.\RTE\_Usr_GPIO-IC:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5d38\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DNRF52 -D_RTE_ -DNRF52-o .\objects\usr_main.o --omf_browse .\objects\usr_main.crf --depend .\objects\usr_main.d)
+I (UsrCode\Usr_Main.h)(0x67B954D7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (UsrCode\Usr_Code.h)(0x67B95429)
+F (.\UsrCode\Usr_Code.c)(0x67B95650)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\UsrCode -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\hal -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates\nRF52832 -I ..\nRF5_SDK_17.1.0_ddde560\components\libraries\delay-I.\RTE\_Usr_GPIO-IC:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5d38\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DNRF52 -D_RTE_ -DNRF52-o .\objects\usr_code.o --omf_browse .\objects\usr_code.crf --depend .\objects\usr_code.d)
+I (UsrCode\Usr_Code.h)(0x67B95429)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (UsrCode\Usr_GPIO.h)(0x67B95EFC)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52.h)(0x6120D640)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\system_nrf52.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_bitfields.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf51_to_nrf52.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_name_change.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\compiler_abstraction.h)(0x6120D640)
+F (.\UsrCode\Usr_GPIO.c)(0x67B95FCA)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\UsrCode -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\hal -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates\nRF52832 -I ..\nRF5_SDK_17.1.0_ddde560\components\libraries\delay-I.\RTE\_Usr_GPIO-IC:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5d38\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DNRF52 -D_RTE_ -DNRF52-o .\objects\usr_gpio.o --omf_browse .\objects\usr_gpio.crf --depend .\objects\usr_gpio.d)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\hal\nrf_gpio.h)(0x61210B97)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\nrfx.h)(0x61210B97)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates\nRF52832\nrfx_config.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\drivers/nrfx_common.h)(0x61210B97)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52.h)(0x6120D640)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\system_nrf52.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_bitfields.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf51_to_nrf52.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_name_change.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\compiler_abstraction.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf_peripherals.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52832_peripherals.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates\nrfx_glue.h)(0x61210B98)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\drivers/nrfx_errors.h)(0x61210B97)
+I (UsrCode\Usr_GPIO.h)(0x67B95EFC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (..\nRF5_SDK_17.1.0_ddde560\components\libraries\delay\nrf_delay.h)(0x61210B93)
+F (.\UsrCode\Usr_Uart.c)(0x67B97690)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\UsrCode -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\hal -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates\nRF52832 -I ..\nRF5_SDK_17.1.0_ddde560\components\libraries\delay-I.\RTE\_Usr_GPIO-IC:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5d38\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DNRF52 -D_RTE_ -DNRF52-o .\objects\usr_uart.o --omf_browse .\objects\usr_uart.crf --depend .\objects\usr_uart.d)
+F (RTE/Device/nRF52832_xxAA/arm_startup_nrf52.s)(0x56CC2CE4)(--cpu Cortex-M4.fp.sp -g --apcs=interwork -I.\RTE\_Usr_GPIO-IC:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5d38\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include--pd "__UVISION_VERSION SETA 538" --pd "_RTE_ SETA 1" --pd "NRF52 SETA 1" --pd "_RTE_ SETA 1"--list .\listings\arm_startup_nrf52.lst --xref -o .\objects\arm_startup_nrf52.o --depend .\objects\arm_startup_nrf52.d)
+F (RTE/Device/nRF52832_xxAA/system_nrf52.c)(0x65387ED0)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\UsrCode -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\hal -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates -I ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\templates\nRF52832 -I ..\nRF5_SDK_17.1.0_ddde560\components\libraries\delay-I.\RTE\_Usr_GPIO-IC:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Keil_v5d38\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.5.0\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DNRF52 -D_RTE_ -DNRF52-o .\objects\system_nrf52.o --omf_browse .\objects\system_nrf52.crf --depend .\objects\system_nrf52.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52.h)(0x6120D640)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5625B70C)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x5625A350)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\system_nrf52.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_bitfields.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf51_to_nrf52.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_name_change.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\compiler_abstraction.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf_peripherals.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52832_peripherals.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_erratas.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\system_nrf52_approtect.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf_erratas.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf51_erratas.h)(0x6120D640)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf53_erratas.h)(0x6120D641)
+I (..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf91_erratas.h)(0x6120D641)
