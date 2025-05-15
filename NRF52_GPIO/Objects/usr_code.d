@@ -1,0 +1,17 @@
+.\objects\usr_code.o: UsrCode\Usr_Code.c
+.\objects\usr_code.o: UsrCode\Usr_Code.h
+.\objects\usr_code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\usr_code.o: UsrCode\Usr_GPIO.h
+.\objects\usr_code.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf.h
+.\objects\usr_code.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52.h
+.\objects\usr_code.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\objects\usr_code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usr_code.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\usr_code.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\usr_code.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\usr_code.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\objects\usr_code.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\system_nrf52.h
+.\objects\usr_code.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_bitfields.h
+.\objects\usr_code.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf51_to_nrf52.h
+.\objects\usr_code.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52_name_change.h
+.\objects\usr_code.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\compiler_abstraction.h

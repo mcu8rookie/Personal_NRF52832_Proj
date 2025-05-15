@@ -1,0 +1,11 @@
+.\objects\startup_nrf_common.o: RTE/Device/nRF52832_xxAA/startup_nrf_common.c
+.\objects\startup_nrf_common.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\startup_nrf_common.o: C:\Keil_v5d38\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.59.0\Device\Include\nrf_mem.h
+.\objects\startup_nrf_common.o: C:\Keil_v5d38\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.59.0\Device\Include\nrf52832_xxaa_memory.h
+.\objects\startup_nrf_common.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\compiler_abstraction.h
+.\objects\startup_nrf_common.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf.h
+.\objects\startup_nrf_common.o: ..\nRF5_SDK_17.1.0_ddde560\modules\nrfx\mdk\nrf52.h
+.\objects\startup_nrf_common.o: C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h
+.\objects\startup_nrf_common.o: C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\startup_nrf_common.o: C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\startup_nrf_common.o: C:\Keil_v5d38\ARM\PACK\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_gcc.h

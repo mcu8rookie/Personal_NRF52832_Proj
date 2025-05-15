@@ -1,0 +1,12 @@
+--cpu Cortex-M4.fp
+".\objects\usr_main.o"
+".\objects\usr_code.o"
+".\objects\usr_gpio.o"
+".\objects\usr_mcu.o"
+".\objects\usr_board.o"
+".\objects\arm_startup_nrf52.o"
+".\objects\system_nrf52.o"
+--strict --scatter ".\Objects\NRF52_GPIO.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\NRF52_GPIO.map" -o .\Objects\NRF52_GPIO.axf
